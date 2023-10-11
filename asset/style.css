@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.tab input {
+  margin-left: 5%;
+}
+
+.todolist {
+  background-color: #54a8dc;
+  width: 30%;
+  height: 30vh;
+}
+
+.todolist input {
+  margin-top: 6%;
+}
+
+.todolist li {
+  margin-left: 5%;
+  list-style-type: none;
+  display: inline;
+}
+
+ul li i {
+  color: red;
+  margin-left: 5%;
+}
+
+.todolist h1 {
+  text-align: center;
+  padding-top: 3%;
+}
+
+button {
+  background-color: blueviolet;
+  border: none;
+  margin-left: 3%;
+}
+
+button i {
+  color: white;
+}
+
+input {
+  margin-top: 2%;
+  margin-left: 10%;
+}
